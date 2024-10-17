@@ -33,6 +33,7 @@ The following grammar rules are used to parse the commands:
                       | "reactor-core"
 <appliance> ::= "coffee-maker" | "oven" | "air-conditioner" | "centrifuge"
                 "synchrotron" | "laser-cannon"
+```
 
 # Setup and Usage
 ## Running with Python
